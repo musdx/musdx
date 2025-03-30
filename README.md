@@ -4,7 +4,7 @@
 
 - 🖥️ Classical linux user
 
-- 🌱 I am still learning how to live my life
+- 🌱 I am still learning
 
 - 🛜 Fediverse Enjoyer
 
